@@ -1,4 +1,4 @@
-# Network_Ananlysis_2020
+# Network_Ananlysis
 Large–scale data–driven network analysis of human–plasmodium falciparum interactome: processes for malaria drug discovery and extracting in silico targets
 
 #This file elaborates on the scripts and datasets used for analaysis
@@ -27,7 +27,7 @@ Scripts are available in Github_scripts/4.github_network_clustering_Analysis
 Datasets available in shared link Github_datasets/4.github_network_clustering_Analysis
 
 #Step 5:
-Step 5 Involves identifyingn disease similary and repurpoasble drugs using implicit semantic 
+Step 5 Involves identifying disease similary and repurpoasble drugs using implicit semantic 
 Scripts are available in Github_scripts/5.github_semantic_similarity
 Datasets available in shared link Github_datasets/5.github_semantic_similarity
 
