@@ -1,4 +1,4 @@
-# Network_Ananlysis
+# Network_Analysis
 Large–scale data–driven network analysis of human–plasmodium falciparum interactome: processes for malaria drug discovery and extracting in silico targets
 
 #This file elaborates on the scripts and datasets used for analaysis
